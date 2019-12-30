@@ -2,3 +2,4 @@ setting/*.py
 *.json
 *.csv
 .git/*
+__pycache__
