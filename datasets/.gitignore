@@ -1,2 +1,2 @@
-/ml100knock/*
-/kaggle/*
+*.json
+*.csv
