@@ -272,24 +272,3 @@ setting/*.py # personal_settingを記述しているため、追跡から除外
     Use 'sudo apt autoremove' to remove it.
     0 upgraded, 0 newly installed, 0 to remove and 7 not upgraded.
 
-
-
-```
-ls
-```
-
-    [0m[01;34m'Colab Notebooks'[0m/   [01;34mdatasets[0m/   [01;34mimgs[0m/   [01;34msetting[0m/
-
-
-
-```
-cd Colab\ Notebooks
-```
-
-    /content/drive/My Drive/remote-colab/Colab Notebooks
-
-
-
-```
-jupyter nbconvert --to md mynotebook.ipynb
-```
